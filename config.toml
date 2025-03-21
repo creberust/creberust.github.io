@@ -7,6 +7,8 @@ description = "Personal Blog made with love for Rustaceans"
 
 author = "Benjamin \"creberust\" Peter"
 
+theme = "duckquill"
+
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
